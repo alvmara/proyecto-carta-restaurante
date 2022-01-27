@@ -2,3 +2,34 @@
     --bs-primary: rgb(255, 145, 0);;
     --bs-primary-rgb: 255, 145, 0;
 }
+
+
+body {
+    text-align: center;
+}
+
+.burguers-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.burguers-list-item {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.burguers-list-item .price {
+    margin-left: auto;
+}
+
+.burguers-list-item h1,
+.burguers-list-item p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+}

@@ -6,7 +6,7 @@
 
 body {
     text-align: center;
-    background-color: rgb(134, 89, 30);
+    background-color: var(--bs-primary);
 }
 
 .burguers-list {
@@ -33,4 +33,5 @@ body {
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: left;
+    
 }

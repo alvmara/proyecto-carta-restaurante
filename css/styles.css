@@ -60,3 +60,9 @@ body {
         width: 100%;
     }
 }
+
+@media only screen and (min-width: 1500px) {
+    .burguers-list-item {
+        width: 25%;
+    }
+}

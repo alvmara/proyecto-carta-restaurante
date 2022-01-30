@@ -16,8 +16,10 @@ Tecnologías que se usan:
 
 ## Descripción
 
-
 La página consta de tres apartados:
 
-- La primera es la página de incio en la cual podemos observar el producto estralla del restaurante
+- En primer lugar encontramos la página de inicio en la cual 
+
+
+
 
